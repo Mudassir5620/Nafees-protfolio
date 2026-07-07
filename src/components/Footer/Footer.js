@@ -15,7 +15,7 @@ function Footer() {
             </span>
           </a>
         &nbsp;|&nbsp; &copy; {new Date().getFullYear()}
-        &nbsp;|&nbsp; <span className="status">// ALL SYSTEMS OPERATIONAL</span>
+        &nbsp;|&nbsp; <span className="status"> ALL SYSTEMS OPERATIONAL</span>
       </p>
     </footer>
   );

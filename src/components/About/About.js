@@ -33,7 +33,7 @@ function About() {
       <div className="section-wrapper">
         <div className="reveal">
           <div className="section-title">About Me</div>
-          <div className="section-sub">// WHO AM I</div>
+          <div className="section-sub"> WHO AM I</div>
         </div>
 
         <div className="about-grid reveal">

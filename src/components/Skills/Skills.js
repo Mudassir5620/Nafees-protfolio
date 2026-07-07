@@ -28,7 +28,7 @@ function Skills() {
       <div className="section-wrapper">
         <div className="reveal">
           <div className="section-title">Skills</div>
-          <div className="section-sub">// TECHNICAL ARSENAL</div>
+          <div className="section-sub"> TECHNICAL ARSENAL</div>
         </div>
 
         <div className="skills-grid reveal">

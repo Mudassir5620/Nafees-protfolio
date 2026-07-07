@@ -48,7 +48,7 @@ function Contact() {
       <div className="section-wrapper">
         <div className="reveal">
           <div className="section-title">Contact</div>
-          <div className="section-sub">// GET IN TOUCH</div>
+          <div className="section-sub"> GET IN TOUCH</div>
         </div>
 
         <div className="contact-grid reveal">
@@ -72,19 +72,19 @@ function Contact() {
           <div className="glass-card">
             <form ref={formRef} onSubmit={handleSubmit} noValidate>
               <div className="form-group">
-                <label>// Name</label>
+                <label> Name</label>
                 <input name="name"    type="text"  placeholder="Your name"        />
               </div>
               <div className="form-group">
-                <label>// Email</label>
+                <label> Email</label>
                 <input name="email"   type="email" placeholder="your@email.com"   />
               </div>
               <div className="form-group">
-                <label>// Subject</label>
+                <label> Subject</label>
                 <input name="subject" type="text"  placeholder="Subject"          />
               </div>
               <div className="form-group">
-                <label>// Message</label>
+                <label> Message</label>
                 <textarea name="message" placeholder="Your message..." rows={5} />
               </div>
 

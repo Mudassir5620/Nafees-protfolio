@@ -11,7 +11,7 @@ function Projects() {
       <div className="section-wrapper">
         <div className="reveal">
           <div className="section-title">Projects</div>
-          <div className="section-sub">// CODE I'VE SHIPPED</div>
+          <div className="section-sub"> CODE I'VE SHIPPED</div>
         </div>
 
         <div className="proj-grid reveal">

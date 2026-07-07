@@ -8,7 +8,7 @@ function Services() {
       <div className="section-wrapper">
         <div className="reveal">
           <div className="section-title">Services</div>
-          <div className="section-sub">// WHAT I OFFER</div>
+          <div className="section-sub"> WHAT I OFFER</div>
         </div>
 
         <div className="svc-grid reveal">

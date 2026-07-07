@@ -8,7 +8,7 @@ function Education() {
       <div className="section-wrapper">
         <div className="reveal">
           <div className="section-title">Education &amp; Certs</div>
-          <div className="section-sub">// KNOWLEDGE BASE</div>
+          <div className="section-sub"> KNOWLEDGE BASE</div>
         </div>
 
         <div className="timeline reveal">

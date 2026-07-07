@@ -191,6 +191,3 @@ export const services = [
   { icon: "📊", title: "Web Analytics Setup",    desc: "Google Analytics integration, goal tracking, and conversion funnel setup for data-driven decisions." },
 ];
 
-export const dev = [
-  {Developer : "Mahummad Mudassir",Number : "9130939112"}
-]
